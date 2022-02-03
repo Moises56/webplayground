@@ -6,9 +6,6 @@ Proyecto Web Playground
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-
 ### Pre-requisitos 📋
 
 ```
@@ -60,7 +57,7 @@ _En este proyecto se realizo lo siguiente_
 * [38]Proyecto API Rest 
 * [39]Producción - deploy
 
-## Autores ✒️
+## Autore ✒️
 
 _Proyeco creado por:_
 
