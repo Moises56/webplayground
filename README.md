@@ -2,10 +2,10 @@
 Proyecto Web Playground
 ¿Que qué es un playground? Pues un lugar para aprender experimentando.
 
-## Índice del Proyecto Web Playground
-_En este proyecto se realizo lo siguiente
+## Índice del Proyecto Web Playground  🛠️
+_En este proyecto se realizo lo siguiente_
 
-* [1]Introducción
+* [1](/)Introducción
 * [2]Preparar la app [Core]
 * [3]CBV y TemplateView
 * [4]Preparando la App [Pages]
