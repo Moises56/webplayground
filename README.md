@@ -1,11 +1,26 @@
 # webplayground
-Proyecto Web Playground
+Proyecto Web Playground 
 ¿Que qué es un playground? Pues un lugar para aprender experimentando.
+
+## Comenzando 🚀
+
+_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+
+Mira **Deployment** para conocer como desplegar el proyecto.
+
+
+### Pre-requisitos 📋
+
+```
+*Instalar Python
+*DJANGO
+```
+
 
 ## Índice del Proyecto Web Playground  🛠️
 _En este proyecto se realizo lo siguiente_
 
-* [1](/)Introducción
+* [1]Introducción
 * [2]Preparar la app [Core]
 * [3]CBV y TemplateView
 * [4]Preparando la App [Pages]
@@ -44,3 +59,10 @@ _En este proyecto se realizo lo siguiente_
 * [37]El detalle final
 * [38]Proyecto API Rest 
 * [39]Producción - deploy
+
+## Autores ✒️
+
+_Proyeco creado por:_
+
+* **Moisés Avilés** - *Trabajo Inicial* - [moises56](https://github.com/Moises56)
+
