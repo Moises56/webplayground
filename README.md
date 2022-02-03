@@ -57,7 +57,7 @@ _En este proyecto se realizo lo siguiente_
 * [38]Proyecto API Rest 
 * [39]Producción - deploy
 
-## Autore ✒️
+## Autor ✒️
 
 _Proyeco creado por:_
 
